@@ -47,9 +47,10 @@
     - title: Business Analyst
       institution: Ministère de l'Immigration, de la Francisation et de l'Intégration, Montreal, Quebec, Canada
       year: Mar 2021 - May 2022
-      Employment_Type: Permanent Full-time
-      description: 
-        contents:
+      description:
+        - Permanent Full-time
+        - title: Roles & Responsibilities.
+          contents:
         - Defined business needs;
         - Analyzed, optimized and modeled business processes;
         - Presented concrete solutions related to the client's needs;
