@@ -10,22 +10,37 @@
   type: time_table
   contents:
     - title: Bachelors
-      institution: John Molson School of Business, Concordia Univesity, Montreal, Canada
+      institution: John Molson School of Business, Concordia Univesity, Montreal, Quebec, Canada
       year: 2015 - 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Business Intelligence Analyst
+      institution: Logient, Montreal, Quebec, Canada
+      year: May 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Permanent Full-time
+        - title: Roles & Responsibilities.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+          - Define business needs.
+          - Work simultaneously on various projects
+          - Present concrete solutions related to the customer's needs.
+          - Participate in the planning of management information systems.
+          - Advise and assist clients or users in a perspective of continuous improvement and innovation.
+          - Document the analyses and viable solutions.
+          - Translate business requirements, operational and functional requirements to development teams.
+          - Evaluate and define the roles and responsibilities of the stakeholders involved in the processes.
+          - Participate in quality control activities.
+          - Facilitate process workshops (needs definition sessions, brainstorming, etc.)
+          - title: Achievements
+          contents:
+          - Bridge gaps between technical and non-technical teams by translating customer needs into developer language and vice versa.
+          - Plan, facilitate and document mapping workshops.
+          - Present the outcomes of the workshops to stakeholders and advise on development follow-up.
+          - Perform data profiling and data mapping using my advanced T-SQL skills.
+          - Perform ETL using T-SQL, SSIS and Python
+          - The projects are conducted in the form of small sprints in agile mode.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
